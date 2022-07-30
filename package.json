@@ -1,0 +1,15 @@
+{
+  "name": "esbuild-issue",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "transform": "node transform.js"
+  },
+  "dependencies": {
+    "esbuild": "0.14.49"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.2"
+  }
+}
